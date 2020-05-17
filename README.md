@@ -6,3 +6,5 @@ https://github.com/jmballesteros123/Exploratory_data_analysis.git
 plot1.png
 
 ![plot1](plot1.png)
+
+![plot2](plot2.png)
