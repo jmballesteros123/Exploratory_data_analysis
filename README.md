@@ -35,4 +35,6 @@ web site</a>:
 
 ![plot1](plot1.png)
 
+![plot1](https://user-images.githubusercontent.com/64702653/82162431-0bca8b00-986a-11ea-930f-746628148408.png)
+
 ![plot2](plot2.png)
