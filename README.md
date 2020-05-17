@@ -33,8 +33,18 @@ web site</a>:
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
 
-![plot1](plot1.png)
+##Plot 1
 
 ![plot1](https://user-images.githubusercontent.com/64702653/82162431-0bca8b00-986a-11ea-930f-746628148408.png)
+
+## Plot 2
+
+![plot2](https://user-images.githubusercontent.com/64702653/82162492-957a5880-986a-11ea-9620-56ced6149930.png)
+
+## Plot 3
+![plot3](https://user-images.githubusercontent.com/64702653/82162541-e5f1b600-986a-11ea-953f-aee99ec7a9fd.png)
+
+#Plot 4
+![plot4](https://user-images.githubusercontent.com/64702653/82162520-d2dee600-986a-11ea-9c59-f91d46dac97d.png)
 
 ![plot2](plot2.png)
