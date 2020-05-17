@@ -42,7 +42,8 @@ web site</a>:
 ![plot2](https://user-images.githubusercontent.com/64702653/82162492-957a5880-986a-11ea-9620-56ced6149930.png)
 
 ## Plot 3
-![plot3](https://user-images.githubusercontent.com/64702653/82162541-e5f1b600-986a-11ea-953f-aee99ec7a9fd.png)
+![plot3](https://user-images.githubusercontent.com/64702653/82162767-92806780-986c-11ea-8a24-d7b84cbf48d2.png)
+
 
 #Plot 4
 ![plot4](https://user-images.githubusercontent.com/64702653/82162520-d2dee600-986a-11ea-9c59-f91d46dac97d.png)
