@@ -1,4 +1,4 @@
-setwd("C:/Users/Sergio/Desktop/Marce/Coursera/R")
+#Actual path
 
 library(data.table)
 
